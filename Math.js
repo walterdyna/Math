@@ -10,4 +10,4 @@ console.log(Math.pow(2,3)) // para calculos de potencia como 2^2
 console.log(Math.sqrt(9,2)) // usado para calco de raiz onde o primento numero que o valor a ser calculado e o segundo e o tipode de rais. no EX uma raiz cubica (simples)
 console.log(Math.random()) // usado para mostrar um numero aleatorio entre zero 0 e um 1
 console.log(Math.ceil(23.6)) // usado para fazer arrendondamento para CIMA
-console.log(Math.floor(23.6))// usado para fazer arrendondamento para BAIXO
+console.log(Math.floor(23.6))// usado para fazer arrendondamento para BAIXO...
